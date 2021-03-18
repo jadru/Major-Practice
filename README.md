@@ -1,2 +1,2 @@
-# C-Practice
+# C++ Practice
 for major studying
