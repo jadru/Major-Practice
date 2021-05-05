@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 class SortedArray {
     int size; // 현재 배열의 크기
     int *p; // 정수 배열에 대한 포인터
